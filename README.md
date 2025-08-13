@@ -1,1 +1,1 @@
-# Ask-me-out project
+# Ask-me project
